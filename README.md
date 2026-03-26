@@ -39,13 +39,6 @@ I am a **Software Engineer** and **AI Agent Architect** specializing in building
 
 ---
 
-## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/diogocatarino) | [Email](mailto:diogocatarino2014@gmail.com)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Catppuccin/Catppuccin/main/assets/logos/macchiato_rainbow.png" width="800" height="2" />
-</p>
-
 <p align="center">
   <sub>Built with intent. Optimized for agents. ⚡</sub>
 </p>
