@@ -1,59 +1,49 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=CAD3F5&center=true&vCenter=true&width=600&lines=Agentic+Systems+Architect;Full-Stack+Engineer;iOS+SwiftUI+Specialist;AI+Orchestrator" alt="Typing SVG" />
+### Building Autonomous Systems | Python • React • AWS
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/diocata?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/diocata?style=social" alt="Stars" />
+</p>
+
+## 👋 About Me
+I am a **Software Engineer** and **AI Agent Architect** specializing in building autonomous agentic workflows and scalable cloud infrastructure. My work focuses on bridging the gap between LLM capabilities and production-ready software.
+
+- 🏗️ **Architecting** multi-agent systems using **Strands** and **Python**.
+- 🚀 **Scaling** full-stack applications with **React**, **FastAPI**, and **AWS**.
+- 🧠 **Integrating** agentic intelligence with serverless cloud ecosystems.
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 AI & Agentic Systems
+- **Frameworks:** Strands (Orchestration), LangGraph, Bedrock Agents.
+- **Models:** OpenAI (GPT-4o), Anthropic (Claude 3.5 Sonnet), Llama 3.
+- **Vector DBs:** Pinecone, Weaviate, Supabase (pgvector).
+
+### 💻 Full-Stack Development
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS.
+- **Backend:** Python (FastAPI), Node.js, JavaScript, Java.
+- **Databases:** PostgreSQL, DynamoDB, MongoDB, Redis.
+
+### ☁️ Cloud & DevOps
+- **AWS:** Lambda, API Gateway, DynamoDB, S3, Bedrock, AgentCore, CDK.
+- **Infrastructure:** Docker, GitHub Actions, Bun, Edge Functions.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diocata&theme=react&hide_border=true" alt="Streak Card" />
 </p>
 
 ---
 
-### 🧬 System Context
-```yaml
-identity:
-  name: Diogo Catarino
-  specialization: [Multi-Agent Orchestration, Full-Stack Architecture, Swift/iOS]
-  workflow: Agentic-First (Cursor + Ghostty + Starship)
-  location: Lisbon / Remote
-
-core_directives:
-  - "Architecting autonomous health-tech ecosystems (Health Wealth Hub)."
-  - "Optimizing model-context protocols (MCP) for local tool integration."
-  - "Building high-performance, minimalist software with intent."
-
-active_stack:
-  languages: [Swift, TypeScript, Python, Rust]
-  frameworks: [Next.js, FastAPI, SwiftUI, LangGraph]
-  infrastructure: [Supabase, Bun, Edge Functions]
-```
-
----
-
-### 🛠️ Problem-Solving Architecture
-```mermaid
-graph LR
-    A[Problem] --> B{Agent Router}
-    B --> C[Research Agent]
-    B --> D[Coding Agent]
-    C & D --> E[Eval Framework]
-    E --> F[Verified Solution]
-    style A fill:#24273a,stroke:#cad3f5
-    style F fill:#24273a,stroke:#a6da95
-```
-
----
-
-### 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diocata&show_icons=true&theme=catppuccin_macchiato&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=8aadf4" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diocata&layout=compact&theme=catppuccin_macchiato&hide_border=true&bg_color=24273a&text_color=cad3f5" width="40%" />
-</p>
-
----
+## 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/diogocatarino) | [Email](mailto:diogocatarino2014@gmail.com)
 
 <p align="center">
-  <a href="https://linkedin.com/in/diogocatarino">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:diogo@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Catppuccin/Catppuccin/main/assets/logos/macchiato_rainbow.png" width="800" height="2" />
 </p>
 
 <p align="center">
