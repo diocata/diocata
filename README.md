@@ -1,5 +1,3 @@
-# 🤖 2026 Agentic Profile: Diogo Catarino (@diocata)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=CAD3F5&center=true&vCenter=true&width=600&lines=Agentic+Systems+Architect;Full-Stack+Engineer;iOS+SwiftUI+Specialist;AI+Orchestrator" alt="Typing SVG" />
 </p>
